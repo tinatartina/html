@@ -27,4 +27,22 @@ p{
     display:flex;
     justify-content: space-around;
 }
+.z{
+    color: rgb(136, 255, 0);    
+    justify-content: space-around;
+}
 
+.y{
+    color: rgb(136, 255, 0);    
+    justify-content: space-around;
+}
+.q{
+    color: rgb(255, 0, 55);    
+    text-align: center;
+
+}
+.moto{
+    display: flex;
+    justify-content: center;
+
+}
